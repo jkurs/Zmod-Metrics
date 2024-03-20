@@ -36,7 +36,7 @@ end
 - Makes song folder names have a drop shadow, and removes the text when a folder is open to use with zmod option show folder banner. (The above code covers that) 
 
 ## Usage
-If you would like to add a pack to a color type, you need to add it to the list inside of the metrics.ini inside SectionCollapsedSetCommand & SectionExpandedSetCommand. there are only two defined color types.
+If you would like to add a pack to a color type, you need to add it to the list inside of the metrics.ini inside SectionCollapsedSetCommand & SectionExpandedSetCommand. there are only two defined color types. Then replace your current metrics.ini with this one, or copy the code blocks into the metrics.ini in your Simply Love Theme folder, load the game, and voila!
  - Tech: Light Blue colored
  - Stamina: Red colored.
 
