@@ -1,5 +1,6 @@
 # Zmod-Metrics
 Backup of my edits to Zmod Simply Love Theme for ITG Mania
+Linke to github for Zmod Simply Love: https://github.com/zarzob/Simply-Love-SM5
 
 # Main Edits
 - Left Aligns all song wheel items.
