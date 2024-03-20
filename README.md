@@ -3,6 +3,11 @@ Backup of my edits to Zmod Simply Love Theme for ITG Mania
 
 ## Main Edits
 - Left Aligns all song wheel items.
+### Code
+```lua
+SectionExpandedOnCommand=horizalign,left;x,50;maxwidth,WideScale(240,310)
+SectionCollapsedOnCommand=horizalign,left;x,50;maxwidth,WideScale(240,310)
+```
 - Allow for color coded folder/pack names on the song wheel based on type. Using a local list inside of the SectionCollapsedSetCommand.
 ### Code
 ```lua
@@ -28,7 +33,7 @@ local technicalPacks = {"Mute Sims X2", "Fred Figglehorn Christmas Minipack", "b
 end
 ```
 
-- Makes song folder names have a drop shadow, and removes the text when a folder is open to use with zmod option show folder banner. 
+- Makes song folder names have a drop shadow, and removes the text when a folder is open to use with zmod option show folder banner. (The above code covers that) 
 
 ## Usage
 If you would like to add a pack to a color type, you need to add it to the list inside of the metrics.ini inside SectionCollapsedSetCommand & SectionExpandedSetCommand. there are only two defined color types.
