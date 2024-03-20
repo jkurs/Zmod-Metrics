@@ -1,6 +1,9 @@
 # Zmod-Metrics
 Backup of my edits to Zmod Simply Love Theme for ITG Mania
 
+### About
+I was prompted to make this when I got tired of the folder names being centered on the wheel. It made it more difficult to find what I wanted because all of the names were different lengths. It created a very syncopated feel on the wheel for me. For a long time, I've wanted a way to differentiate between stamina and technical packs. Unfortunately, there is no way to really do this through folders, so I opted into at first by changing the names of folders and adding a specific naming convention for me to tell the difference while scrolling. This worked for a good while, but ultimately I still ended up scrolling too far because im braindead. I decided I wanted to dig deeper in how to modify my simply love because I really admire all the work that Zarzob and Zankoku and the many others have put into it which sparked my interest and intrigue. I figured out how to add color based on pack names and this is the result of that. Thanks to Zankoku and Zarzob for some tips on how to get this all working.
+
 ## Main Edits
 - Left Aligns all song wheel items.
 ### Code
