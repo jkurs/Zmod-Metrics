@@ -1,6 +1,5 @@
 # Zmod-Metrics
 Backup of my edits to Zmod Simply Love Theme for ITG Mania
-Linke to github for Zmod Simply Love: https://github.com/zarzob/Simply-Love-SM5
 
 # Main Edits
 - Left Aligns all song wheel items.
@@ -11,3 +10,6 @@ Linke to github for Zmod Simply Love: https://github.com/zarzob/Simply-Love-SM5
 If you would like to add a pack to a color type, you need to add it to the list inside of the metrics.ini inside SectionCollapsedSetCommand & SectionExpandedSetCommand. there are only two defined color types.
  - Tech: Light Blue colored
  - Stamina: Red colored.
+
+# Credits
+Zmod Simply Love: https://github.com/zarzob/Simply-Love-SM5
